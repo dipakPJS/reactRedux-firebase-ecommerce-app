@@ -72,7 +72,7 @@ const HomePageProductCard = () => {
                                                 {title.substring(0, 25)}
                                             </h1>
                                             <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
-                                                रुपैयाँ {price}
+                                            रु॰ {price}
                                             </h1>
 
                                             <div className="flex justify-center ">
